@@ -4,3 +4,6 @@ Projeto desenvolvido durante a semana OmniStack 10, evento oferecido pela rocket
 
 ## backend
 O backend foi desenvolvido para ser uma api REST para servir o frontend e o mobile desta aplicação.
+
+## frontend
+O frontend foi desenvolvido usando a biblioteca ReactJS.
